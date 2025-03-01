@@ -1,21 +1,41 @@
-<<<<<<< HEAD
-# senbonzakura-theme
-Senbonzakura theme for vscode. Still working on and learning...
-=======
-# senbonzakura README
+<p align="center">
+  <img alt="Senbonzakura Logo" src="https://raw.githubusercontent.com/ferupin/senbonzakura-theme/refs/heads/main/images/sz-logo.png" width="100" />
+</p>
+<h1 align="center">
+  Senbonzakura Theme for VS Code
+</h1>
+<p align="center">
+    Step into a world of graceful elegance and tranquility with Sakura Bloom. Inspired by the delicate beauty of cherry blossoms, this theme wraps your coding experience in soft pink hues, gentle contrasts, and a serene aesthetic reminiscent of a peaceful spring morning in Kyoto.
+</p>
 
-## Working with Markdown
+<div align="center">
+  
+[![Marketplace](https://img.shields.io/badge/Marketplace-Visit%20Now-pink?logo=link&logoColor=white&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=Ferupin.senbonzakura&ssr=false#overview)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+</div>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<h4 align="center">
+  <b>🌸 Embrace the beauty. Code with serenity. 🌸</b>
+</h1>
+<div align="center">
+  <img alt="Senbonzakura Preview" src="https://raw.githubusercontent.com/ferupin/senbonzakura-theme/refs/heads/main/images/theme-preview.png" style="box-shadow: rgba(100, 100, 111, 0.8) 0px 12px 37px 0px;" />
+</div>
 
-## For more information
+## Features
+- ✨ Tranquil & Elegant Design – A soothing pink aesthetic inspired by cherry blossoms.
+- 🌿 Comfortable Coding Experience – Gentle contrasts that reduce eye strain.
+- 🌙 Soft & Dreamy Ambiance – A serene atmosphere for immersive focus.
+- 🌸 Blossom-Inspired Accents – Subtle highlights that feel like petals in the wind.
+- 🎨 Aesthetic & Harmonious Colors – Balanced pastels for a visually pleasing experience.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
->>>>>>> 52eae3a (deploy v.1: adding project to repo)
+## Installation via VS Code:
+1. Open Visual Studio Code.
+2. Go to  `View → Extensions`.
+3. Search for `Senbonzakura`.
+4. **Install** the theme.
+5. Click on **Set The Color Theme**..
+6. If you loved it 🩷. Show your support with ⭐⭐⭐⭐⭐!
+
+Your support means everything! Feel free to share your thoughts, contribute, or suggest improvements
+>_💖 Crafted with passion and dedication, just for you, by Ferupin 🚀
