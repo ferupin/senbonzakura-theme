@@ -740,6 +740,24 @@
 		}
 	  },
 	  {
+		"name": "JSX Tags",
+		"scope": "meta.tag", // Text without "Example" or 'Example' quotes
+		"settings": {
+		  "foreground": "#FEFAFA"
+		}
+	  },
+	  {
+		"name": "JSX Tag Symbols",
+		"scope": [
+		  "punctuation.definition.tag.begin.tsx", // Símbolo '<'
+		  "punctuation.definition.tag.end.tsx",   // Símbolo '>'
+		  "meta.tag.tsx punctuation.definition.tag.begin.tsx", // Símbolo '</'
+		],
+		"settings": {
+		  "foreground": "#FF54AC"
+		}
+	  },
+	  {
 		"name": "Inherited Class",
 		"scope": "entity.other.inherited-class",
 		"settings": {
