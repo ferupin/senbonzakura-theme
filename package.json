@@ -1,0 +1,35 @@
+{
+  "name": "senbonzakura",
+  "displayName": "Senbonzakura",
+  "description": "Senbonzakura Kageyoshi!",
+  "version": "1.0.0",
+  "publisher": "Ferupin",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ferupin/senbonzakura-theme.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "senbonzakura",
+    "sakura",
+    "pink",
+    "purple"
+],
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Senbonzakura",
+        "uiTheme": "vs-dark",
+        "path": "./themes/senbonzakura-color-theme.json"
+      }
+    ]
+  }
+}
